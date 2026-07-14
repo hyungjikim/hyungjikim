@@ -35,6 +35,6 @@
 
 <p align="center">
 <a href="https://gitfut.com/hyungjikim" class="align:right">
-  <img src="https://gitfut.com/hyungjikim.png" alt="My GitFut card" width="150">
+  <img src="https://gitfut.com/hyungjikim.png?country=KR" alt="My GitFut card" width="150">
 </a>
 </p
